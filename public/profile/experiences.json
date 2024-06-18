@@ -1,33 +1,27 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Worked on abc."
-            ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
+            "title": "Software Developer",
+            "subtitle": "WatchCharts",
             "workType": "Freelance",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Developed algorithm using OpenCV to read the time on photos of analog watches, enabling automated verification for watch marketplace. (Python)"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "01/2024 – 05/2024"
+        },
+        {
+            "title": "Software Developer",
+            "subtitle": "Crownquest Operating",
+            "workType": "Full-time",
+            "workDescription": [
+                "Revamped legacy application used by geologists to create drilling project diagrams. Web capability and improved interface allowed significantly better productivity for users. (JavaScript, Plotly)",
+                "Added features and improved user interface of oil production data analytics application. Application gained significantly more usage throughout the organization, leading to better understanding and better drilling decisions. (JavaScript, JQuery, Bootstrap)",
+                "Revamped the company’s main drilling/fracking operations schedule from Excel to a web interface. Cleaned and structured operations data from Excel to SQL. Worked with team on simulation functionality, which helped the leadership financially optimize the schedule. (React, MySQL)",
+                "Improved user interface and functionality of logistics application used by engineers to manage fracking water. Built personnel scheduling interface for engineers. (C#, SQL Server, Telerik)",
+                "Built application that converts drilling data into a 3D model of the well. (Python, Plotly)",
+                "Mentored new hires and interns in software development and domain knowledge."
+            ],
+            "dateText": "06/2019 – 06/2021"
         }
     ]
 }
